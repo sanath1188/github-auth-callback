@@ -1,0 +1,17 @@
+{
+  "name": "github-callback",
+  "version": "1.0.0",
+  "description": "github-callback-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "randomstring": "^1.2.2",
+    "simple-oauth2": "^4.3.0"
+  },
+  "type": "commonjs"
+}
